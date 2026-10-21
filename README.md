@@ -6,7 +6,6 @@
 [![UI](https://img.shields.io/badge/UI-Swing%20GUI%20%2B%20CLI-5382A1?style=for-the-badge)](https://docs.oracle.com/javase/tutorial/uiswing/)
 [![Storage](https://img.shields.io/badge/Storage-Zero--Dependency%20JSON-4CAF50?style=for-the-badge)](https://www.json.org/)
 [![Tests](https://img.shields.io/badge/Tests-12%2F12%20Passing%20(100%25)-brightgreen?style=for-the-badge)](test.bat)
-[![Academic](https://img.shields.io/badge/CIT-Chennai%20Institute%20of%20Technology-purple?style=for-the-badge)](https://www.citchennai.edu.in/)
 
 ---
 
