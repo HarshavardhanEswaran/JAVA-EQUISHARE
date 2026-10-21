@@ -268,8 +268,8 @@ equishare-pro/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/keerthanamg1905/JAVA-PBL.git
-cd JAVA-PBL
+git clone https://github.com/HarshavardhanEswaran/JAVA-EQUISHARE.git
+cd JAVA-EQUISHARE
 ```
 
 ### 2. Compile the Project
