@@ -365,7 +365,7 @@ The automated test runner (`WorkflowTest.java`) executes 12 end-to-end integrati
 
 - **Course:** Project-Based Learning (PBL) in Java Programming
 - **Degree:** Bachelor of Engineering in Computer Science and Engineering
-- **Institution:** Chennai Institute of Technology (Autonomous), Chennai – 600069
+- **Institution:** College of Engineering, Guindy,Chennai-600025
 - **Academic Year:** 2026–2027
 
 ---
